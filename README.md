@@ -1,6 +1,6 @@
 # Sorting Algorithms Visualization
 
-This project provides visualizations of two popular sorting algorithms: Selection Sort and Bubble Sort. The visualizations are implemented in C++ using the `graphics.h` library, allowing users to observe the sorting process step by step.
+This project provides visualizations of two popular sorting algorithms: Selection Sort and Bubble Sort. The visualizations are implemented in C++ using the `cstdlib` and `ctime` library, allowing users to observe the sorting process step by step.
 
 ## Overview
 
@@ -18,7 +18,6 @@ Bubble Sort repeatedly steps through the list, compares adjacent elements, and s
 ## Requirements
 
 - `bits/stdc++.h` for standard C++ libraries.
-- `chrono` for generating random numbers.
 
 ## Acknowledgments
 
